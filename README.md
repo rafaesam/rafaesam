@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Rafaa from Sudan 🏡
+I'm currently working on different data engineering projects💻
 
 <!--
 **rafaesam/rafaesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
