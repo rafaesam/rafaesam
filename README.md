@@ -2,6 +2,9 @@
 I'm Rafaa from Sudan 🏡
 I'm currently working on different data engineering projects💻
 
+![Rafaa's github stats](https://github-readme-stats.vercel.app/api?username=rafaesam)
+
+
 <!--
 **rafaesam/rafaesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
