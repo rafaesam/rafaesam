@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Rafaa from Sudan 🏡
-I'm currently working on different data engineering projects💻
+I'm currently working on different data engineering and machine learning projects💻
 
 ![Rafaa's github stats](https://github-readme-stats.vercel.app/api?username=rafaesam)
 
