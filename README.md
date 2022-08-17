@@ -3,14 +3,12 @@
 - I'm currently working on different data engineering and machine learning projects💻
 - I'm learning new tools in Tech everyday
 - I’m looking to collaborate on data engineering projects
-- Reach me &nbsp;  [![website](./icons/twitter-light.svg)](https://twitter.com/RafaaAhmed19#gh-light-mode-only)
+- Reach me in &nbsp;  [![website](./icons/twitter-light.svg)](https://twitter.com/RafaaAhmed19#gh-light-mode-only)
 [![website](./icons/twitter-dark.svg)](https://twitter.com/RafaaAhmed19#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./icons/linkedin-light.svg)](https://www.linkedin.com/in/rafaa-ahmed-0b380923a/#gh-light-mode-only) 
 [![website](./icons/linkedin-dark.svg)](https://www.linkedin.com/in/rafaa-ahmed-0b380923a/#gh-dark-mode-only) 
 &nbsp;&nbsp;
-[![website](./icons/medium-light.svg)](https://medium.com/@rafaesam0#)
-
 - ⚡ Fun fact: I love making crafts in my spare time
 
 
