@@ -1,21 +1,18 @@
-### Hi there 👋
-I'm Rafaa from Sudan 🏡
-I'm currently working on different data engineering and machine learning projects💻
+### Hi there 😄👋👋
+- I'm Rafaa from Sudan 🏡
+- I'm currently working on different data engineering and machine learning projects💻
+- I'm learning new tools in Tech everyday
+- I’m looking to collaborate on data engineering projects
+<!-- - Reach me [![website](./icons/twitter.png)](https://twitter.com/RafaaAhmed19#)
+&nbsp;&nbsp;
+[![website](./icons/linkedin.png)](https://www.linkedin.com/in/rafaa-ahmed-0b380923a/) -->
 
-![Rafaa's github stats](https://github-readme-stats.vercel.app/api?username=rafaesam)
+- ⚡ Fun fact: I love making crafts in my spare time
 
 
-<!--
-**rafaesam/rafaesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+![Rafaa's github stats](https://github-readme-stats.vercel.app/api?username=rafaesam) -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- [![website](./i/medium-light5.svg)](https://medium.com/@rafaesam0#) -->
