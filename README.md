@@ -4,7 +4,7 @@
 - I'm learning new tools in Tech everyday
 - I’m looking to collaborate on data engineering projects
 - ⚡ Fun fact: I love making crafts in my spare time
-- ✉ Drop me E-mail me rafaesam0@gmail.com
+- ✉ E-mail me @ rafaesam0@gmail.com
 - Reach me in &nbsp;  [![website](./icons/twitter-light.svg)](https://twitter.com/RafaaAhmed19#gh-light-mode-only)
 [![website](./icons/twitter-dark.svg)](https://twitter.com/RafaaAhmed19#gh-dark-mode-only)
 &nbsp;&nbsp;
