@@ -1,7 +1,7 @@
-### Hi there 👋😊🧕🏽✨
-- I'm Rafaa from Sudan 🏡
+### Hi there 👋
+- I'm Rafaa
 - I'm currently working on different data engineering and machine learning projects💻
-- I'm learning new tools in Tech everyday
+- Interested about learning new tools in Tech
 - I’m looking to collaborate with other smart engineers around the world 👨🏽‍💻👩🏽‍💻
 - ⚡ Fun fact: I love making crafts
 - ✉ E-mail me @ rafaesam0@gmail.com
